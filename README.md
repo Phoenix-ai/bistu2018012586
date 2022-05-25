@@ -26,22 +26,23 @@ Here, the training set of [Plant Pathology 2020 - FGVC7](https://www.kaggle.com/
 ## details
 
 1. Image preprocessing before style transfer.
-![01](images/019.PNG)
-2. The construction of the dataset [step1tostep2](https://www.kaggle.com/datasets/sssbanana/step1tostep2).
+<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/019.PNG" width="40%" heigth="40%" />
+2. The construction of the dataset (step1tostep2).
 ![02](images/020.PNG)
+<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/020.PNG" width="40%" heigth="40%" />
 3. Obtaining the variables of the train_step method of the CycleGAN class.
-![03](images/031.PNG)
+<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/031.PNG" width="70%" heigth="70%" />
 4. Obtaining the losses of the train_step method of the CycleGAN class.
-![03](images/032.PNG)
+<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/032.PNG" width="70%" heigth="70%" />
 5. Example of image comparison before and after style transfer.
-<center class="half">
-<img src="https://github.com/Phoenix-ai/bistu2018012586/images/1001a.jpg" />
-<img src="https://github.com/Phoenix-ai/bistu2018012586/images/1001b.jpg" />
-<img src="https://github.com/Phoenix-ai/bistu2018012586/images/1001c.jpg" />
+<center class="third">
+<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/1001a.jpg" width="70%" heigth="70%" />
+<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/1001b.jpg" width="70%" heigth="70%" />
+<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/1001c.jpg" width="70%" heigth="70%" />
 </center>
-6. The construction of the dataset [step3tostep4](https://www.kaggle.com/datasets/sssbanana/step3tostep4).
-![04](images/022.PNG)
+6. The construction of the dataset (step3tostep4).
+<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/022.PNG" width="70%" heigth="70%" />
 7. The five versions of the classification model.
-![05](images/023.PNG)
-8. The result of [MyStep5](https://www.kaggle.com/code/sssbanana/mystep5)
-![06](images/cut.jpg)
+<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/023.PNG" width="70%" heigth="70%" />
+8. The result of MyStep5.
+<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/cut.jpg" width="70%" heigth="70%" />
