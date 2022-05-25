@@ -6,7 +6,7 @@ At present, deep learning has been widely used in computer vision tasks such as 
 
 If the actual image is re-labeled and the model is trained, it will bring huge labeling cost. Traditional data augmentation methods are mostly based on pre-set rules, which can enhance the diversity of images in the training set and help improve the generalization performance of the model. However, such methods do not consider targeted data enhancement for real images. However, based on the style transfer technology, the style of the training set images is transferred to the actual image style, and the annotation labels are kept unchanged, and a training set with annotated results that is close to the style of the specific actual image set will be generated, and the model will be trained based on the migrated data set. Or fine-tuning an existing model will help improve the prediction performance of the model in specific real-world scenarios.
 
-This topic studies the data augmentation method based on style transfer, and evaluates its improvement effect on the model prediction performance on the image classification task through experiments.
+This paper studies the data augmentation method based on style transfer, and evaluates its effect on the prediction performance of the model on the image classification task through experiments.
 
 ## Method
 
