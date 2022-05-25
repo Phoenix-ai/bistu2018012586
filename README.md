@@ -34,10 +34,8 @@ Here, the training set of [Plant Pathology 2020 - FGVC7](https://www.kaggle.com/
 4. Obtaining the losses of the train_step method of the CycleGAN class.
 <img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/032.PNG" width="60%" heigth="60%" />
 5. Example of image comparison before and after style transfer.
-<center class="third">
-  <img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/1001a.jpg" width="40%" heigth="40%" />
-  <img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/1001b.jpg" width="40%" heigth="40%" />
-  <img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/1001c.jpg" width="40%" heigth="40%" />
+<center class="half">
+  <img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/1001a.jpg" width="20%" heigth="40%" /><img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/1001b.jpg" width="20%" heigth="40%" /><img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/1001c.jpg" width="20%" heigth="40%" />
 </center>
 6. The construction of the dataset (step3tostep4).
 <img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/022.PNG" width="60%" heigth="60%" />
