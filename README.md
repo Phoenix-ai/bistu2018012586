@@ -23,26 +23,25 @@ Here, the training set of [Plant Pathology 2020 - FGVC7](https://www.kaggle.com/
 + The fourth step has one code, but ten versions. Each version is saved on Kaggle, they just have different parameters (Step, BALANCE). For example, MyStep4.1b means that Step is V1 and BALANCE is True. MyStep4.5u means that Step is V5 and BALANCE is False. The version can be changed by changing Step and BALANCE.(Take MyStep4.5b as an example, just to see [MyStep4.5b](https://www.kaggle.com/code/sssbanana/mystep4-5b)))
 + The fifth step is to sort out the experimental results of the above ten versions.(See [MyStep5](https://www.kaggle.com/code/sssbanana/mystep5))
 
-## details
+## Details
 
 1. Image preprocessing before style transfer.
 <img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/019.PNG" width="40%" heigth="40%" />
 2. The construction of the dataset (step1tostep2).
-![02](images/020.PNG)
 <img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/020.PNG" width="40%" heigth="40%" />
 3. Obtaining the variables of the train_step method of the CycleGAN class.
-<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/031.PNG" width="70%" heigth="70%" />
+<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/031.PNG" width="60%" heigth="60%" />
 4. Obtaining the losses of the train_step method of the CycleGAN class.
-<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/032.PNG" width="70%" heigth="70%" />
+<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/032.PNG" width="60%" heigth="60%" />
 5. Example of image comparison before and after style transfer.
 <center class="third">
-<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/1001a.jpg" width="70%" heigth="70%" />
-<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/1001b.jpg" width="70%" heigth="70%" />
-<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/1001c.jpg" width="70%" heigth="70%" />
+  <img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/1001a.jpg" width="40%" heigth="40%" />
+  <img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/1001b.jpg" width="40%" heigth="40%" />
+  <img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/1001c.jpg" width="40%" heigth="40%" />
 </center>
 6. The construction of the dataset (step3tostep4).
-<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/022.PNG" width="70%" heigth="70%" />
+<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/022.PNG" width="60%" heigth="60%" />
 7. The five versions of the classification model.
-<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/023.PNG" width="70%" heigth="70%" />
+<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/023.PNG" width="30%" heigth="30%" />
 8. The result of MyStep5.
-<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/cut.jpg" width="70%" heigth="70%" />
+<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/cut.jpg" width="60%" heigth="60%" />
