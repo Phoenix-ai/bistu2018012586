@@ -59,8 +59,8 @@ Here, the training set of [Plant Pathology 2020 - FGVC7](https://www.kaggle.com/
   </tr>
 </table>
 6. The construction of the dataset (step3tostep4).
-<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/022.PNG" width="45%" heigth="45%" />
+<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/022.PNG" width="50%" heigth="50%" />
 7. The five versions of the classification model.
-<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/023.PNG" width="30%" heigth="30%" />
+<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/023.PNG" width="40%" heigth="40%" />
 8. The result of MyStep5.
-<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/cut.jpg" width="65%" heigth="65%" />
+<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/cut.jpg" width="70%" heigth="70%" />
