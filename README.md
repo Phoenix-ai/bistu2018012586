@@ -34,14 +34,33 @@ Here, the training set of [Plant Pathology 2020 - FGVC7](https://www.kaggle.com/
 4. Obtaining the losses of the train_step method of the CycleGAN class.
 <img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/032.PNG" width="60%" heigth="60%" />
 5. Example of image comparison before and after style transfer.
-<figure class="third">
-  <img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/1001a.jpg" width="20%" heigth="40%" />
-  <img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/1001b.jpg" width="20%" heigth="40%" />
-  <img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/1001c.jpg" width="20%" heigth="40%" />
-</figure>
+<table align="center">
+  <tr align="center">
+    <td>
+      <img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/1001a.jpg" width="100%" heigth="100%" border=0 />
+    </td>
+    <td>
+      <img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/1001b.jpg" width="100%" heigth="100%" border=0 />
+    </td>
+    <td>
+      <img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/1001c.jpg" width="100%" heigth="100%" border=0 />
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Before style transfer
+    </td>
+    <td>
+      After style transfer
+    </td>
+    <td>
+      New style
+    </td>
+  </tr>
+</table>
 6. The construction of the dataset (step3tostep4).
-<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/022.PNG" width="50%" heigth="50%" />
+<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/022.PNG" width="45%" heigth="45%" />
 7. The five versions of the classification model.
 <img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/023.PNG" width="30%" heigth="30%" />
 8. The result of MyStep5.
-<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/cut.jpg" width="70%" heigth="70%" />
+<img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/cut.jpg" width="65%" heigth="65%" />
