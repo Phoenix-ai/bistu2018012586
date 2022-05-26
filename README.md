@@ -25,9 +25,9 @@ Here, the training set of [Plant Pathology 2020 - FGVC7](https://www.kaggle.com/
 <img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/019.PNG" width="40%" heigth="40%" />
 2. The construction of the dataset (step1tostep2).
 <img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/020.PNG" width="40%" heigth="40%" />
-3. Obtaining the variables of the train_step method of the CycleGAN class.
+3. Obtaining the variables of the train_step method of the CycleGAN class.(Take monet to photo as an example)
 <img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/031.PNG" width="60%" heigth="60%" />
-4. Obtaining the losses of the train_step method of the CycleGAN class.
+4. Obtaining the losses of the train_step method of the CycleGAN class.(Take monet to photo as an example)
 <img src="https://github.com/Phoenix-ai/bistu2018012586/blob/f1035d8d0497e59a59df465ac165584a435e6fb2/images/032.PNG" width="60%" heigth="60%" />
 5. Example of image comparison before and after style transfer.
 <table align="center">
